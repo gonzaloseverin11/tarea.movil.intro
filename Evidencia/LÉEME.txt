@@ -1,0 +1,1 @@
+Debido a la incompatibilidad entre Flutter y un sistema operativo de 32 bits, he tenido que subir fotos de esa evidencia.
